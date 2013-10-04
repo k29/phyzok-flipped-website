@@ -1,0 +1,107 @@
+.logo {
+	color: black;
+	font-size: 2.5em;
+}
+
+.footerlogo {
+	font-size: 2.5em;
+}
+
+@font-face {
+	font-family: geosans;
+	src: url(../fonts/GeosansLight.ttf);
+}
+
+@font-face {
+	font-family: school;
+	src: url(../fonts/PWScolarpaper.ttf);
+}
+
+@font-face {
+	font-family: licenseplate;
+	src: url(../fonts/LicensePl8.ttf);
+}
+
+#logo-phyzok {
+	font-family: geosans;
+}
+
+#logo-flipped {
+	font-family: licenseplate;
+}
+
+#aboutphyzokp {
+	font-size: 1.2em;
+}
+
+.row-fluid .span4 img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+.panel {
+	-webkit-box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+	box-shadow: 0 15px 50px rgba(0,0,0,0.2);
+}
+
+#panel1 {
+	animation-duration: 2s;
+
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+#panel2 {
+	animation-duration: 2s;
+
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+#panel3 {
+	animation-duration: 1s;
+
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-ms-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+#panel4 {
+	animation-duration: 1s;
+
+	-webkit-animation-delay: 2s;
+	-moz-animation-delay: 2s;
+	-ms-animation-delay: 2s;
+	-o-animation-delay: 2s;
+	animation-delay: 2s;
+}
+
+#panel5 {
+	animation-duration: 2s;
+
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
+
+#panel6 {
+	animation-duration: 2s;
+
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	-ms-animation-delay: 1s;
+	-o-animation-delay: 1s;
+	animation-delay: 1s;
+}
